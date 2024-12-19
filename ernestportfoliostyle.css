@@ -1,0 +1,123 @@
+.footer{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid brown;
+}
+.topfooter{
+    height: 300px;
+    border-bottom: 0.5px solid white;
+    margin: 15px 15px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.tfcontainer{
+    margin-right: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.tfcontainer1{
+    margin-right: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 80px;
+}
+.tfinnercon{
+    margin-left: 20px;
+}
+.tfwriteup{
+    color: white;
+}
+.tfwriteup1{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.tfwriteup2{
+    color: white;
+    font-size: 22px;
+    font-weight: normal;
+    font-family: Arial;
+}
+.tfwriteup3{
+    color: white;
+    font-size: 22px;
+    font-weight: normal;
+    font-family: Arial;
+    margin-left: 20px;
+}
+.innerdiv{
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+.innerdiv2{
+    background-color: gold;
+    width: 210px;
+    border-radius: 40px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tfwriteup4{
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial;
+}
+.image1{
+    height: 50px;
+    width: 50px;
+    margin-top: 28px;
+}
+.addup{
+    line-height: 45px;
+}
+.bottomfooter{
+    margin: 15px 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+    height: 350px;
+    border-bottom: 0.5px solid white;
+    margin: 15px 15px;
+}
+.bfcontainer{
+    margin-right: 20px;
+}
+.bfinner{
+    margin-right: 20px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.yellowdot{
+    height: 10px;
+    width: 10px;
+}
+.bfwrite{
+    color: white;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Arial;
+}
+.bfw{
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Arial;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
